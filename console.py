@@ -1,10 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun 29 07:56:17 2020
 
-@author: Robinson Montes
-         Carlos Murcia
 """
 import cmd
 import models

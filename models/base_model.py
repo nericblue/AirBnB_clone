@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
-Creation date: June 26, 2020
-Authors: Robinson Montes
-        Carlos Murcia
+
 """
 import uuid
 from datetime import datetime
